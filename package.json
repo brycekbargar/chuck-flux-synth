@@ -1,0 +1,25 @@
+{
+  "name": "chuck-flux-synth",
+  "version": "1.0.0",
+  "description": "A generic and ever-evolving synthesizer engine for the [ChucK](http://chuck.cs.princeton.edu/) language using [Facebook's Flux](https://facebook.github.io/flux/) pattern",
+  "main": "index.ck",
+  "files": [
+    "package"
+  ],
+  "scripts": {
+    "start": "steve start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycekbargar/chuck-flux-synth.git"
+  },
+  "author": "Bryce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brycekbargar/chuck-flux-synth/issues"
+  },
+  "homepage": "https://github.com/brycekbargar/chuck-flux-synth#readme",
+  "dependencies": {
+    "chuck-dispatcher": "^1.0.0"
+  }
+}
