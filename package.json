@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/brycekbargar/chuck-flux-synth#readme",
   "dependencies": {
+    "chuck-configurator": "^1.0.0",
     "chuck-dispatcher": "^1.0.0"
   }
 }

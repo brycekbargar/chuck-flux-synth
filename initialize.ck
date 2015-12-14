@@ -1,7 +1,3 @@
-// Configuration
-Machine.add(me.dir()+"configuration/ObjectFactory.ck");
-Machine.add(me.dir()+"configuration/Configurator.ck");
-
 // Domain
 Machine.add(me.dir()+"models/MidiNote.ck");
 Machine.add(me.dir()+"models/MidiControlType.ck");
